@@ -1,16 +1,15 @@
-# For Phase 1 & 2 & 3
 opencv-python
 Pillow
 pyzbar
-
-# For Phase 2
 pytesseract
 easyocr
 pandas
-
-# For Phase 3
-tensorflow
 torch
-
-# For Phase 4
 scikit-learn
+streamlit
+tensorflow
+opencv-python
+Pillow
+pytesseract
+pymupdf
+Faker
